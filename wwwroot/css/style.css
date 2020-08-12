@@ -1,0 +1,46 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.wrapper {
+  width: 550px;
+  margin: auto;
+}
+
+  h1 {
+    margin: 5px;
+    text-align: center;
+  }
+
+  .statsdisplay {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+  }
+
+  .dojodachi {
+    margin: auto;
+    text-align: center;
+    border: 1px solid black;
+    padding: 35px 50px 35px 50px;
+  }
+
+    .dojodachi img {
+      height: 200px;
+    }
+  
+    .dojodachi p {
+      margin-top: 20px;
+    }
+
+  .activities {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px;
+  }
+  
+    .activities button {
+      height: 27px;
+      width: 60px;
+    }

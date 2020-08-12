@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="~/css/style.css"/>
+</head>
+<body>
+  <div class="wrapper">
+    <h1>Welcome to Dojodachi</h1>
+    <div class="statsdisplay">
+      <p>Fullness: @ViewBag.Fullness</p>
+      <p>Happiness: @ViewBag.Happiness</p>
+      <p>Meals: @ViewBag.Meals</p>
+      <p>Energy: @ViewBag.Energy</p>
+    </div>
+
+    <div class="dojodachi">
+      @if(ViewBag.Fullness >= 100 && ViewBag.Happiness >= 100 && ViewBag.Energy == 100)
+      {
+        <p>You Won! Play Again?</p>
+      }
+      else if(ViewBag.Fullness == 0 || ViewBag.Happiness == 0)
+      {
+        <p>You Lost! Your Dojodachi is dead!</p>
+      }
+      else
+      {
+        <img src="@ViewBag.Img" alt="Dog">
+        <p>@ViewBag.Action @ViewBag.StatOne @ViewBag.StatTwo</p>
+        <p>@ViewBag.NotLike</p>
+        <p>@ViewBag.Cannot</p>
+      }
+    </div>
+
+    <div class="activities">
+      @if(ViewBag.Fullness >= 100 && ViewBag.Happiness >= 100 && ViewBag.Energy == 100 || ViewBag.Fullness == 0 || ViewBag.Happiness == 0)
+      {
+        <form action="/restart" method="post" class="restart">
+          <button type="submit">Restart</button>
+        </form>
+      }
+      else
+      {
+        <form action="/feed" method="post" class="feed">
+          <input name ="min" type="hidden" value="5">
+          <input name ="max" type="hidden" value="11">
+          <button type="submit">Feed</button>
+        </form>
+
+        <form action="/play" method="post" class="play">
+          <input name ="min" type="hidden" value="5">
+          <input name ="max" type="hidden" value="11">
+          <button type="submit">Play</button>
+        </form>
+
+        <form action="/work" method="post" class="work">
+          <input name ="min" type="hidden" value="1">
+          <input name ="max" type="hidden" value="4">
+          <button type="submit">Work</button>
+        </form>
+
+        <form action="/sleep" method="post" class="sleep">
+          <input name ="min" type="hidden" value="0">
+          <input name ="max" type="hidden" value="0">
+          <button type="submit">Sleep</button>
+        </form>
+      }
+    </div>
+  </div>
+</body>
+</html>

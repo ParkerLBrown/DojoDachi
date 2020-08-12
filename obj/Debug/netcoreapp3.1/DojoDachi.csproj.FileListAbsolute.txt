@@ -1,0 +1,93 @@
+C:\Users\admin\Desktop\Dojo Assignments\C#\ASP.NET Core\DojoDachi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\admin\Desktop\Dojo Assignments\C#\ASP.NET Core\DojoDachi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\admin\Desktop\Dojo Assignments\C#\ASP.NET Core\DojoDachi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\admin\Desktop\Dojo Assignments\C#\ASP.NET Core\DojoDachi\bin\Debug\netcoreapp3.1\DojoDachi.exe
+C:\Users\admin\Desktop\Dojo Assignments\C#\ASP.NET Core\DojoDachi\bin\Debug\netcoreapp3.1\DojoDachi.deps.json
+C:\Users\admin\Desktop\Dojo Assignments\C#\ASP.NET Core\DojoDachi\bin\Debug\netcoreapp3.1\DojoDachi.runtimeconfig.json
+C:\Users\admin\Desktop\Dojo Assignments\C#\ASP.NET Core\DojoDachi\bin\Debug\netcoreapp3.1\DojoDachi.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Dojo Assignments\C#\ASP.NET Core\DojoDachi\bin\Debug\netcoreapp3.1\DojoDachi.dll
+C:\Users\admin\Desktop\Dojo Assignments\C#\ASP.NET Core\DojoDachi\bin\Debug\netcoreapp3.1\DojoDachi.pdb
+C:\Users\admin\Desktop\Dojo Assignments\C#\ASP.NET Core\DojoDachi\bin\Debug\netcoreapp3.1\DojoDachi.Views.dll
+C:\Users\admin\Desktop\Dojo Assignments\C#\ASP.NET Core\DojoDachi\bin\Debug\netcoreapp3.1\DojoDachi.Views.pdb
+C:\Users\admin\Desktop\Dojo Assignments\C#\ASP.NET Core\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Dojo Assignments\C#\ASP.NET Core\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Dojo Assignments\C#\ASP.NET Core\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.AssemblyInfo.cs
+C:\Users\admin\Desktop\Dojo Assignments\C#\ASP.NET Core\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Dojo Assignments\C#\ASP.NET Core\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\Dojo Assignments\C#\ASP.NET Core\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.RazorAssemblyInfo.cache
+C:\Users\admin\Desktop\Dojo Assignments\C#\ASP.NET Core\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.RazorAssemblyInfo.cs
+C:\Users\admin\Desktop\Dojo Assignments\C#\ASP.NET Core\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.TagHelpers.input.cache
+C:\Users\admin\Desktop\Dojo Assignments\C#\ASP.NET Core\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.TagHelpers.output.cache
+C:\Users\admin\Desktop\Dojo Assignments\C#\ASP.NET Core\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.RazorCoreGenerate.cache
+C:\Users\admin\Desktop\Dojo Assignments\C#\ASP.NET Core\DojoDachi\obj\Debug\netcoreapp3.1\Razor\Views\Home\index.cshtml.g.cs
+C:\Users\admin\Desktop\Dojo Assignments\C#\ASP.NET Core\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.RazorTargetAssemblyInfo.cache
+C:\Users\admin\Desktop\Dojo Assignments\C#\ASP.NET Core\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.RazorTargetAssemblyInfo.cs
+C:\Users\admin\Desktop\Dojo Assignments\C#\ASP.NET Core\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.Views.pdb
+C:\Users\admin\Desktop\Dojo Assignments\C#\ASP.NET Core\DojoDachi\obj\Debug\netcoreapp3.1\staticwebassets\DojoDachi.StaticWebAssets.Manifest.cache
+C:\Users\admin\Desktop\Dojo Assignments\C#\ASP.NET Core\DojoDachi\obj\Debug\netcoreapp3.1\staticwebassets\DojoDachi.StaticWebAssets.xml
+C:\Users\admin\Desktop\Dojo Assignments\C#\ASP.NET Core\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.dll
+C:\Users\admin\Desktop\Dojo Assignments\C#\ASP.NET Core\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.pdb
+C:\Users\admin\Desktop\Dojo Assignments\C#\ASP.NET Core\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.genruntimeconfig.cache
+C:\Users\admin\Desktop\Dojo Assignments\C#\ASP.NET Core\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.csproj.CopyComplete
+C:\Users\Parker\Desktop\DojoDachi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Parker\Desktop\DojoDachi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Parker\Desktop\DojoDachi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Parker\Desktop\DojoDachi\bin\Debug\netcoreapp3.1\DojoDachi.exe
+C:\Users\Parker\Desktop\DojoDachi\bin\Debug\netcoreapp3.1\DojoDachi.deps.json
+C:\Users\Parker\Desktop\DojoDachi\bin\Debug\netcoreapp3.1\DojoDachi.runtimeconfig.json
+C:\Users\Parker\Desktop\DojoDachi\bin\Debug\netcoreapp3.1\DojoDachi.runtimeconfig.dev.json
+C:\Users\Parker\Desktop\DojoDachi\bin\Debug\netcoreapp3.1\DojoDachi.dll
+C:\Users\Parker\Desktop\DojoDachi\bin\Debug\netcoreapp3.1\DojoDachi.pdb
+C:\Users\Parker\Desktop\DojoDachi\bin\Debug\netcoreapp3.1\DojoDachi.Views.dll
+C:\Users\Parker\Desktop\DojoDachi\bin\Debug\netcoreapp3.1\DojoDachi.Views.pdb
+C:\Users\Parker\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.csprojAssemblyReference.cache
+C:\Users\Parker\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.AssemblyInfoInputs.cache
+C:\Users\Parker\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.AssemblyInfo.cs
+C:\Users\Parker\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.csproj.CoreCompileInputs.cache
+C:\Users\Parker\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Parker\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.RazorAssemblyInfo.cache
+C:\Users\Parker\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.RazorAssemblyInfo.cs
+C:\Users\Parker\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.TagHelpers.input.cache
+C:\Users\Parker\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.TagHelpers.output.cache
+C:\Users\Parker\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.RazorCoreGenerate.cache
+C:\Users\Parker\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\Razor\Views\Home\index.cshtml.g.cs
+C:\Users\Parker\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.RazorTargetAssemblyInfo.cache
+C:\Users\Parker\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.RazorTargetAssemblyInfo.cs
+C:\Users\Parker\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.Views.pdb
+C:\Users\Parker\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\staticwebassets\DojoDachi.StaticWebAssets.Manifest.cache
+C:\Users\Parker\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\staticwebassets\DojoDachi.StaticWebAssets.xml
+C:\Users\Parker\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.dll
+C:\Users\Parker\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.pdb
+C:\Users\Parker\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.genruntimeconfig.cache
+C:\Users\Parker\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.csproj.CopyComplete
+C:\Users\admin\Desktop\DojoDachi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\admin\Desktop\DojoDachi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\admin\Desktop\DojoDachi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\admin\Desktop\DojoDachi\bin\Debug\netcoreapp3.1\DojoDachi.exe
+C:\Users\admin\Desktop\DojoDachi\bin\Debug\netcoreapp3.1\DojoDachi.deps.json
+C:\Users\admin\Desktop\DojoDachi\bin\Debug\netcoreapp3.1\DojoDachi.runtimeconfig.json
+C:\Users\admin\Desktop\DojoDachi\bin\Debug\netcoreapp3.1\DojoDachi.runtimeconfig.dev.json
+C:\Users\admin\Desktop\DojoDachi\bin\Debug\netcoreapp3.1\DojoDachi.dll
+C:\Users\admin\Desktop\DojoDachi\bin\Debug\netcoreapp3.1\DojoDachi.pdb
+C:\Users\admin\Desktop\DojoDachi\bin\Debug\netcoreapp3.1\DojoDachi.Views.dll
+C:\Users\admin\Desktop\DojoDachi\bin\Debug\netcoreapp3.1\DojoDachi.Views.pdb
+C:\Users\admin\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.AssemblyInfo.cs
+C:\Users\admin\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.RazorAssemblyInfo.cache
+C:\Users\admin\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.RazorAssemblyInfo.cs
+C:\Users\admin\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.TagHelpers.input.cache
+C:\Users\admin\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.TagHelpers.output.cache
+C:\Users\admin\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.RazorCoreGenerate.cache
+C:\Users\admin\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\Razor\Views\Home\index.cshtml.g.cs
+C:\Users\admin\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.RazorTargetAssemblyInfo.cache
+C:\Users\admin\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.RazorTargetAssemblyInfo.cs
+C:\Users\admin\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.Views.pdb
+C:\Users\admin\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\staticwebassets\DojoDachi.StaticWebAssets.Manifest.cache
+C:\Users\admin\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\staticwebassets\DojoDachi.StaticWebAssets.xml
+C:\Users\admin\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.dll
+C:\Users\admin\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.pdb
+C:\Users\admin\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.genruntimeconfig.cache
+C:\Users\admin\Desktop\DojoDachi\obj\Debug\netcoreapp3.1\DojoDachi.csproj.CopyComplete
